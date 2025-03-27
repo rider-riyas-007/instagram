@@ -1,0 +1,489 @@
+{
+  "posts": [
+    {
+      "id": "101",
+      "user": {
+        "id": 1,
+        "username": "john_doe",
+        "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+        "postedTime": "9 m"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Sunset at the beach! 🌅",
+      "likes": [
+        {
+          "id": 2,
+          "username": "jane_smith",
+          "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+          "id": 3,
+          "username": "alex_king",
+          "profileImage": "https://randomuser.me/api/portraits/men/3.jpg",
+          "postedTime": "18 m"
+        }
+      ],
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": 201,
+          "user": {
+            "id": 2,
+            "username": "jane_smith",
+            "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+          },
+          "text": "Amazing view!",
+          "createdAt": "2025-03-24T12:10:00Z"
+        },
+        {
+          "id": 202,
+          "user": {
+            "id": 3,
+            "username": "alex_king",
+            "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+          },
+          "text": "I love this place! ❤️",
+          "createdAt": "2025-03-24T12:20:00Z"
+        }
+      ],
+      "createdAt": "2025-03-24T12:00:00Z"
+    },
+    {
+      "id": "102",
+      "user": {
+        "id": 2,
+        "username": "jane_smith",
+        "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+        "postedTime": "18 m"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Myiagra_rubecula_-_Australian_National_Botanic_Gardens_edit1.jpg",
+      "caption": "Delicious homemade pizza 🍕",
+      "likes": [
+        {
+          "id": 1,
+          "username": "john_doe",
+          "profileImage": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+          "id": 3,
+          "username": "alex_king",
+          "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      ],
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": 203,
+          "user": {
+            "id": 1,
+            "username": "john_doe",
+            "profileImage": "https://randomuser.me/api/portraits/men/1.jpg"
+          },
+          "text": "Looks so tasty! 😋",
+          "createdAt": "2025-03-24T14:40:00Z"
+        }
+      ],
+      "createdAt": "2025-03-24T14:30:00Z"
+    },
+    {
+      "id": "103",
+      "user": {
+        "id": 1,
+        "username": "john_doe",
+        "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+        "postedTime": "1 hr"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Sunset at the beach! 🌅",
+      "likes": [
+        {
+          "id": 2,
+          "username": "jane_smith",
+          "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+          "id": 3,
+          "username": "alex_king",
+          "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      ],
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": 201,
+          "user": {
+            "id": 2,
+            "username": "jane_smith",
+            "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+          },
+          "text": "Amazing view!",
+          "createdAt": "2025-03-24T12:10:00Z"
+        },
+        {
+          "id": 202,
+          "user": {
+            "id": 3,
+            "username": "alex_king",
+            "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+          },
+          "text": "I love this place! ❤️",
+          "createdAt": "2025-03-24T12:20:00Z"
+        }
+      ],
+      "createdAt": "2025-03-24T12:00:00Z"
+    },
+    {
+      "id": "103",
+      "user": {
+        "id": 1,
+        "username": "john_doe",
+        "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+        "postedTime": "1 hr"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Sunset at the beach! 🌅",
+      "likes": [
+        {
+          "id": 2,
+          "username": "jane_smith",
+          "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+          "id": 3,
+          "username": "alex_king",
+          "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      ],
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": 201,
+          "user": {
+            "id": 2,
+            "username": "jane_smith",
+            "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+          },
+          "text": "Amazing view!",
+          "createdAt": "2025-03-24T12:10:00Z"
+        },
+        {
+          "id": 202,
+          "user": {
+            "id": 3,
+            "username": "alex_king",
+            "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+          },
+          "text": "I love this place! ❤️",
+          "createdAt": "2025-03-24T12:20:00Z"
+        }
+      ],
+      "createdAt": "2025-03-24T12:00:00Z"
+    },
+    {
+      "id": "105",
+      "user": {
+        "id": 1,
+        "username": "john_doe",
+        "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+        "postedTime": "1 hr"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Sunset at the beach! 🌅",
+      "likes": [
+        {
+          "id": 2,
+          "username": "jane_smith",
+          "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+          "id": 3,
+          "username": "alex_king",
+          "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      ],
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": 201,
+          "user": {
+            "id": 2,
+            "username": "jane_smith",
+            "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+          },
+          "text": "Amazing view!",
+          "createdAt": "2025-03-24T12:10:00Z"
+        },
+        {
+          "id": 202,
+          "user": {
+            "id": 3,
+            "username": "alex_king",
+            "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+          },
+          "text": "I love this place! ❤️",
+          "createdAt": "2025-03-24T12:20:00Z"
+        }
+      ],
+      "createdAt": "2025-03-24T12:00:00Z"
+    },
+    {
+      "id": "106",
+      "user": {
+        "id": 1,
+        "username": "john_doe",
+        "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+        "postedTime": "1 hr"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Sunset at the beach! 🌅",
+      "likes": [
+        {
+          "id": 2,
+          "username": "jane_smith",
+          "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+          "id": 3,
+          "username": "alex_king",
+          "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+        }
+      ],
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": 201,
+          "user": {
+            "id": 2,
+            "username": "jane_smith",
+            "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+          },
+          "text": "Amazing view!",
+          "createdAt": "2025-03-24T12:10:00Z"
+        },
+        {
+          "id": 202,
+          "user": {
+            "id": 3,
+            "username": "alex_king",
+            "profileImage": "https://randomuser.me/api/portraits/men/3.jpg"
+          },
+          "text": "I love this place! ❤️",
+          "createdAt": "2025-03-24T12:20:00Z"
+        }
+      ],
+      "createdAt": "2025-03-24T12:00:00Z"
+    }
+  ],
+  "profile": {
+    "id": 111,
+    "username": "riyas_007",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "jane_smith",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "isFollowing": false
+    },
+    {
+      "id": "2",
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "isFollowing": false
+    },
+    {
+      "id": "3",
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "isFollowing": false
+    },
+    {
+      "id": "4",
+      "username": "jane_smith",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "isFollowing": false
+    },
+    {
+      "id": "5",
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "isFollowing": false
+    },
+    {
+      "id": "6",
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "isFollowing": false
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 1,
+        "username": "riyas_007",
+        "profileImage": "https://randomuser.me/api/portraits/men/1.jpg"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Myiagra_rubecula_-_Australian_National_Botanic_Gardens_edit1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 2,
+        "username": "cat_girl",
+        "profileImage": "https://randomuser.me/api/portraits/women/2.jpg"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 2,
+        "username": "nathen",
+        "profileImage": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Myiagra_rubecula_-_Australian_National_Botanic_Gardens_edit1.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 1,
+        "username": "johny_dep",
+        "profileImage": "https://images.pexels.com/photos/13758252/pexels-photo-13758252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Myiagra_rubecula_-_Australian_National_Botanic_Gardens_edit1.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 2,
+        "username": "julia_dizoza",
+        "profileImage": "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 2,
+        "username": "brit_pratt",
+        "profileImage": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Myiagra_rubecula_-_Australian_National_Botanic_Gardens_edit1.jpg"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 2,
+        "username": "gentle_jew",
+        "profileImage": "https://images.pexels.com/photos/6087408/pexels-photo-6087408.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 2,
+        "username": "sasi_edits",
+        "profileImage": "https://images.pexels.com/photos/906052/pexels-photo-906052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Myiagra_rubecula_-_Australian_National_Botanic_Gardens_edit1.jpg"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 2,
+        "username": "raja_raj",
+        "profileImage": "https://images.pexels.com/photos/2097475/pexels-photo-2097475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg"
+    },
+    {
+      "id": "10",
+      "user": {
+        "id": 2,
+        "username": "cuty_chan",
+        "profileImage": "https://images.pexels.com/photos/159767/baby-cute-moe-brilliant-159767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Myiagra_rubecula_-_Australian_National_Botanic_Gardens_edit1.jpg"
+    },
+    {
+      "id": "11",
+      "user": {
+        "id": 2,
+        "username": "boom_baby",
+        "profileImage": "https://images.pexels.com/photos/2869318/pexels-photo-2869318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg"
+    },
+    {
+      "id": "12",
+      "user": {
+        "id": 2,
+        "username": "kitty_cat",
+        "profileImage": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Myiagra_rubecula_-_Australian_National_Botanic_Gardens_edit1.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "jane_smith"
+    },
+    {
+      "id": "2",
+      "username": "john_doe"
+    }
+  ],
+  "reels": [
+    {
+      "id": "1",
+      "userDp": "https://randomuser.me/api/portraits/women/2.jpg",
+      "username": "riyas_007",
+      "videoUrl": "src/assets/reel-2.mp4",
+      "isRed": true,
+      "count": 46
+    },
+    {
+      "id": "2",
+      "userDp": "https://randomuser.me/api/portraits/women/2.jpg",
+      "username": "riyas_007",
+      "videoUrl": "src/assets/reel-1.mp4",
+      "isRed": false,
+      "count": 32
+    },
+    {
+      "id": "3",
+      "userDp": "https://randomuser.me/api/portraits/women/2.jpg",
+      "username": "riyas_007",
+      "videoUrl": "src/assets/reel-3.mp4",
+      "isRed": false,
+      "count": 229
+    }
+  ],
+  "explore": [
+    {
+      "id": 1,
+      "likes": 20,
+      "comments": 30,
+      "videoUrl": "src/assets/reel-1.mp4",
+      "videoUrl2": "src/assets/reel-2.mp4"
+    },
+    {
+      "id": 2,
+      "likes": 20,
+      "comments": 30,
+      "videoUrl": "src/assets/reel-2.mp4",
+      "videoUrl2": "src/assets/reel-3.mp4"
+    },
+    {
+      "id": 3,
+      "likes": 20,
+      "comments": 30,
+      "videoUrl": "src/assets/reel-3.mp4",
+      "videoUrl2": "src/assets/reel-1.mp4"
+    }
+  ]
+}

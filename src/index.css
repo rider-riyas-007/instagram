@@ -1,0 +1,94 @@
+.w-20{
+    width:20%;
+}
+.w-30{
+    width:30%;
+}
+.logo-text{
+    width: 100px;
+}
+.bi{
+    margin-right:10px;
+}
+.story{
+    height:90px;
+    padding:10px;
+    overflow-x: auto;   /* Enable horizontal scrolling */
+    overflow-y: hidden; /* Prevent vertical scrolling */
+    white-space: nowrap; /* Prevent wrapping */
+    scrollbar-width: none; /* Hide scrollbar in Firefox */
+    -ms-overflow-style: none; /* Hide scrollbar in IE/Edge */
+   
+}
+.story::-webkit-scrollbar {
+    display: none;
+}
+.dp{
+    height:45px;
+    width: 45px;
+    margin-right: 5px ;
+   
+}
+.image{
+    width: 400px;
+}
+.suggestions h5{
+    font-size: 16px;
+}
+.story-dp{
+    width:50px;
+    height: 50px;
+}
+.gradient-border{
+    width:55px;
+    height:55px;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    border-radius: 50%;
+    background: linear-gradient(45deg,#ff00ff,#ff6600,#ffcc00);
+}
+.profile{
+    width: 100px;
+    height: 100px;
+   
+}
+.secondary{
+    color:rgb(131, 129, 129);
+}
+.hover-navy:hover{
+    color:navy;
+}
+
+.hover-grey:hover{
+    color:grey;
+}
+.reels-shadow {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Soft shadow */
+    border-radius: 10px; /* Rounded corners */
+    transition: box-shadow 0.3s ease-in-out; /* Smooth effect */
+}
+
+.reels-shadow:hover {
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.5); /* Stronger shadow on hover */
+}
+.small-video{
+    width:100%;
+    height:200px;
+
+}
+.w-20{
+    width:20%;
+}
+.w-35{
+    width:30%;
+}
+.secondary-bg{
+    background-color: rgba(224, 219, 219, 0.89);
+}
+input{
+    outline: none;
+    border:none;
+    border-radius: 5px;
+}
+
